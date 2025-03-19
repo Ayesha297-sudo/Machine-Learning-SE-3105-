@@ -1,6 +1,6 @@
 # 📌 Machine Learning SE-3105  
 
-##📝 Course Overview  
+📝 Course Overview  
 This repository contains **Machine Learning Lab tasks assignments, and projects** for **Course SE-3105** at **The University of Azad Jammu and Kashmir**. It includes practical implementations covering:  
  
 - ✅ Supervised Learning  
