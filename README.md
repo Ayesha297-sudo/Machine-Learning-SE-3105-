@@ -16,7 +16,8 @@ This repository contains **Machine Learning Lab tasks assignments, and projects*
 
 ## 🚀 Getting Started  
 1. **Clone the repository:**  
-   ```bash
+   ```bash   [   git clone https://github.com/Ayesha297-sudo/Machine-Learning-SE-3105.git](https://github.com/Ayesha297-sudo/Machine-Learning-SE-3105-)
+
 [   git clone https://github.com/Ayesha297-sudo/Machine-Learning-SE-3105.git](https://github.com/Ayesha297-sudo/Machine-Learning-SE-3105-)
 
 
